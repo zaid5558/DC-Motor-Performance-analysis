@@ -45,7 +45,7 @@ If you use this project in your work, please consider citing it:
 ```
 @project{dc_motor_model,
   title={DC Motor Modeling and Simulation},
-  author={Your Name},
+  author={Zaid Al-Qaisi},
   year={2025},
   url={https://github.com/your-username/dc-motor-model}
 }
